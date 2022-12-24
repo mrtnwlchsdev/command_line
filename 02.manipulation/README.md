@@ -27,7 +27,7 @@ Copiar multiples recursos de un directorio en otro distinto
 Seleccionar multiples recursos de un directorio a la vez a traves del comodi *
 
     - Copiar todos los recursos de un directorio en otro destino
-    
+
         $ cp * <destination_path>
 
     - Copiar todos los recursos con una extension especifica de un directorio en otro destino
